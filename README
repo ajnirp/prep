@@ -1,0 +1,7 @@
+Implementations of common algorithms.
+
+Constraints/preferences:
+
+1. Each .cpp file should be self-contained.
+2. C++98 preferred.
+3. Avoid STL as much as possible. <iostream> is okay.
